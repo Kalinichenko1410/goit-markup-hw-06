@@ -976,7 +976,7 @@ padding: 72px 16px 24px;
 
 }
 /* Tablet version */
-@media screen and (min-width: 768px) and (max-width: 1200px) {
+@media screen and (min-width: 768px) and (max-width: 1157.98px) {
 .container {
 max-width: 768px;
 overflow-x: hidden;
